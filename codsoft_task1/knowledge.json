@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "what is the capital of france",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "what is the capital of Germany?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "hey",
+      "answer": "hello"
+    },
+    {
+      "question": "how are you",
+      "answer": "im good wbu"
+    },
+    {
+      "question": "im fine",
+      "answer": ""
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "im good",
+      "answer": "im glad"
+    }
+  ]
+}
